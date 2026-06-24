@@ -269,8 +269,6 @@ Full CC + MLO inference
 
 ## Citation
 
-Use the following anonymized citation while the manuscript is under review:
-
 ```bibtex
 @misc{rayhan2026ceinet,
   title={When Views Disagree: Conflict-Aware Evidential Inference for Multi-View Mammography},
@@ -279,8 +277,6 @@ Use the following anonymized citation while the manuscript is under review:
   year={2026}
 }
 ```
-
-Update the author list, publication venue, and DOI after acceptance.
 
 ## Disclaimer
 
